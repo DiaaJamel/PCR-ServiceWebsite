@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PCR-ServiceWebsite/static/css/main.9a4c10ad.chunk.css",
+    "main.js": "/PCR-ServiceWebsite/static/js/main.ab728d22.chunk.js",
+    "main.js.map": "/PCR-ServiceWebsite/static/js/main.ab728d22.chunk.js.map",
+    "runtime-main.js": "/PCR-ServiceWebsite/static/js/runtime-main.53bc39d5.js",
+    "runtime-main.js.map": "/PCR-ServiceWebsite/static/js/runtime-main.53bc39d5.js.map",
+    "static/css/2.6f290ece.chunk.css": "/PCR-ServiceWebsite/static/css/2.6f290ece.chunk.css",
+    "static/js/2.a82a4a3e.chunk.js": "/PCR-ServiceWebsite/static/js/2.a82a4a3e.chunk.js",
+    "static/js/2.a82a4a3e.chunk.js.map": "/PCR-ServiceWebsite/static/js/2.a82a4a3e.chunk.js.map",
+    "static/js/3.ab0691d3.chunk.js": "/PCR-ServiceWebsite/static/js/3.ab0691d3.chunk.js",
+    "static/js/3.ab0691d3.chunk.js.map": "/PCR-ServiceWebsite/static/js/3.ab0691d3.chunk.js.map",
+    "index.html": "/PCR-ServiceWebsite/index.html",
+    "static/css/2.6f290ece.chunk.css.map": "/PCR-ServiceWebsite/static/css/2.6f290ece.chunk.css.map",
+    "static/css/main.9a4c10ad.chunk.css.map": "/PCR-ServiceWebsite/static/css/main.9a4c10ad.chunk.css.map",
+    "static/js/2.a82a4a3e.chunk.js.LICENSE.txt": "/PCR-ServiceWebsite/static/js/2.a82a4a3e.chunk.js.LICENSE.txt",
+    "static/media/abed.acdd7b9c.jpg": "/PCR-ServiceWebsite/static/media/abed.acdd7b9c.jpg",
+    "static/media/bookNow.590a4a96.jpg": "/PCR-ServiceWebsite/static/media/bookNow.590a4a96.jpg",
+    "static/media/cover.47881bc8.png": "/PCR-ServiceWebsite/static/media/cover.47881bc8.png",
+    "static/media/covid.2f65a06b.mp4": "/PCR-ServiceWebsite/static/media/covid.2f65a06b.mp4",
+    "static/media/drive1.4712055b.jpg": "/PCR-ServiceWebsite/static/media/drive1.4712055b.jpg",
+    "static/media/footerLogo1.5c0c9ea5.svg": "/PCR-ServiceWebsite/static/media/footerLogo1.5c0c9ea5.svg",
+    "static/media/forYou.e0b6f1bb.jpg": "/PCR-ServiceWebsite/static/media/forYou.e0b6f1bb.jpg",
+    "static/media/home3.08c2b13a.jpg": "/PCR-ServiceWebsite/static/media/home3.08c2b13a.jpg",
+    "static/media/hospital1.5edbd101.jpg": "/PCR-ServiceWebsite/static/media/hospital1.5edbd101.jpg",
+    "static/media/landingPageImage.c122d55c.png": "/PCR-ServiceWebsite/static/media/landingPageImage.c122d55c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53bc39d5.js",
+    "static/css/2.6f290ece.chunk.css",
+    "static/js/2.a82a4a3e.chunk.js",
+    "static/css/main.9a4c10ad.chunk.css",
+    "static/js/main.ab728d22.chunk.js"
+  ]
+}
